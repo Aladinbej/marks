@@ -1,0 +1,80 @@
+{
+   "matieres":[
+      {
+         "name":"C++",
+         "status":"value",
+         "ETCSCredits":"5",
+         "marks":[
+            {
+               "matiere":"POSIX Lourd",
+               "note":"6"
+            },
+            {
+               "matiere":"POSIX Léger",
+               "note":"16"
+            },
+            {
+               "matiere":"Design Pattern",
+               "note":"19"
+            }
+         ]
+      },
+      {
+         "name":"C#",
+         "status":"value",
+         "ETCSCredits":"5",
+         "marks":[
+            {
+               "matiere":"MVC",
+               "note":"6"
+            },
+            {
+               "matiere":"ASP.NET",
+               "note":"16"
+            },
+            {
+               "matiere":"WPF",
+               "note":"19"
+            }
+         ]
+      },
+      {
+         "name":"JAVA",
+         "status":"value",
+         "ETCSCredits":"5",
+         "marks":[
+            {
+               "matiere":"Design Pattern",
+               "note":"6"
+            },
+            {
+               "matiere":"Async",
+               "note":"16"
+            },
+            {
+               "matiere":"ANDROID",
+               "note":"19"
+            }
+         ]
+      },
+      {
+         "name":"PYHON",
+         "status":"value",
+         "ETCSCredits":"5",
+         "marks":[
+            {
+               "matiere":"IA",
+               "note":"6"
+            },
+            {
+               "matiere":"CNN",
+               "note":"16"
+            },
+            {
+               "matiere":"Machine Learning",
+               "note":"19"
+            }
+         ]
+      }
+   ]
+}
