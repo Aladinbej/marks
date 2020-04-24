@@ -2,7 +2,7 @@
    "matieres":[
       {
          "name":"C++",
-         "status":"value",
+         "status":"validated",
          "ETCSCredits":"5",
          "marks":[
             {
@@ -21,7 +21,7 @@
       },
       {
          "name":"C#",
-         "status":"value",
+         "status":"waiting",
          "ETCSCredits":"5",
          "marks":[
             {
@@ -40,7 +40,7 @@
       },
       {
          "name":"JAVA",
-         "status":"value",
+         "status":"unvalidated",
          "ETCSCredits":"5",
          "marks":[
             {
@@ -59,7 +59,7 @@
       },
       {
          "name":"PYHON",
-         "status":"value",
+         "status":"validated",
          "ETCSCredits":"5",
          "marks":[
             {
