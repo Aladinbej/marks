@@ -25,7 +25,7 @@
       {
          "name":"C#",
          "status":"waiting",
-         "ETCSCredits":"5",
+         "ETCSCredits":"15",
          "marks":[
             {
                "date":"05-08-2020",
@@ -47,7 +47,7 @@
       {
          "name":"JAVA",
          "status":"unvalidated",
-         "ETCSCredits":"5",
+         "ETCSCredits":"40",
          "marks":[
             {
                "date":"13-02-2020",
@@ -69,7 +69,7 @@
       {
          "name":"PYHON",
          "status":"validated",
-         "ETCSCredits":"5",
+         "ETCSCredits":"6",
          "marks":[
             {
                "date":"11-15-2020",
